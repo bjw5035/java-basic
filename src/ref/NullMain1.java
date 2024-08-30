@@ -10,7 +10,6 @@ public class NullMain1 {
         data = null;
         System.out.println("3. data = " + data);
 
-        // test 입니다.
     }
 
 }
