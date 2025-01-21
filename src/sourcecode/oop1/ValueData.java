@@ -1,7 +1,0 @@
-package sourcecode.oop1;
-
-public class ValueData {
-
-    int value;
-
-}
